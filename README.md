@@ -1,8 +1,6 @@
 # [Abhijith Sudhakar - Resume](https://www.linkedin.com/in/abhijith-sudhakar/)
 
-. It shows his education, skills, and previous positions or projects he had worked on.
-
-[Resume](https://github.com/CYBERDUD3/resume/) is the personal resume website of [Abhijith Sudhakar](https://github.com/CYBERDUD3/).
+[Resume](https://github.com/CYBERDUD3/resume/) is the personal resume website of [Abhijith Sudhakar](https://github.com/CYBERDUD3/). It shows his education, skills, and previous positions or projects he had worked on.
 
 ## Preview
 
