@@ -6,7 +6,7 @@
 
 ## Preview
 
-[![Resume Preview](https://github.com/CYBERDUD3/resume/blob/master/img/profile.jpg)](https://blackrockdigital.github.io/startbootstrap-resume/)
+[![Resume Preview](https://github.com/CYBERDUD3/resume/blob/master/img/Abhijith%20Sudhakar%20-%20Resume.png)](https://blackrockdigital.github.io/startbootstrap-resume/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
 
