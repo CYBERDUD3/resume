@@ -1,10 +1,12 @@
-# [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
+# [Abhijith Sudhakar - Resume](https://www.linkedin.com/in/abhijith-sudhakar/)
 
-[Resume](https://startbootstrap.com/template-overviews/resume/) is a resume and CV theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
+. It shows his education, skills, and previous positions or projects he had worked on.
+
+[Resume](https://github.com/CYBERDUD3/resume/) is the personal resume website of [Abhijith Sudhakar](https://github.com/CYBERDUD3/).
 
 ## Preview
 
-[![Resume Preview](https://startbootstrap.com/assets/img/screenshots/themes/resume.png)](https://blackrockdigital.github.io/startbootstrap-resume/)
+[![Resume Preview](https://github.com/CYBERDUD3/resume/blob/master/img/profile.jpg)](https://blackrockdigital.github.io/startbootstrap-resume/)
 
 **[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
 
